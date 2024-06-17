@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",

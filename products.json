@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
@@ -31,7 +31,7 @@
   },
   {
     "id": 31,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "الخضار، صلصة السباغيتي، الكاتشب",
@@ -41,7 +41,7 @@
   },
   {
     "id": 32,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "الخضار، صلصة السباغيتي، الكاتشب",
@@ -51,7 +51,7 @@
   },
   {
     "id": 33,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "الخضار، صلصة السباغيتي، الكاتشب",
@@ -61,7 +61,7 @@
   },
   {
     "id": 41,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "لحم البقر الغنم و المعز والدواجن و الأسماك",
@@ -71,7 +71,7 @@
   },
   {
     "id": 42,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "لحم البقر الغنم و المعز والدواجن و الأسماك",
@@ -81,7 +81,7 @@
   },
   {
     "id": 43,
-    "lib": "Taher",
+    "library": "Taher",
     "name": "Abdellah",
     "code": "198200",
     "title": "لحم البقر الغنم و المعز والدواجن و الأسماك",
